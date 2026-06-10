@@ -26,7 +26,7 @@
 ## 👩‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-public class PoojaV {
+'''public class PoojaV {
 
     String education = "CSE Graduate | Saveetha Engineering College";
     String batch = "Class of 2025";
@@ -60,7 +60,7 @@ public class PoojaV {
         return "Writing code that actually works.";
     }
 }
-
+'''
 
 ```java
 public class PoojaV {
