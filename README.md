@@ -26,41 +26,6 @@
 ## 👩‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-'''public class PoojaV {
-
-    String education = "CSE Graduate | Saveetha Engineering College";
-    String batch = "Class of 2025";
-    double cgpa = 8.17;
-
-    String role = "Java Full Stack Developer";
-    String training = "QSpiders";
-    String experience = "Built real-world projects";
-
-    String[] skills = {
-        "Core Java",
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "SQL"
-    };
-
-    String[] currentlyLearning = {
-        "Spring Boot",
-        "React.js",
-        "AWS"
-    };
-
-    String careerGoal =
-        "Looking for my first full-time role to build scalable, high-performance software";
-
-    String funFact =
-        "Built a Forest Fire Detection System using pure Java & image processing — no ML, just logic 🌲🔥";
-
-    String motto() {
-        return "Writing code that actually works.";
-    }
-}
-'''
 
 ```java
 public class PoojaV {
