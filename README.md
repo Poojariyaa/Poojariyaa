@@ -27,8 +27,36 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```java
+public class PoojaV {
 
- 
+    String name          = "Pooja V";
+    String location      = "Chennai, Tamil Nadu 🇮🇳";
+    String degree        = "B.E. Computer Science & Engineering";
+    String college       = "Saveetha Engineering College (8.17 CGPA)";
+    String gradYear      = "2025";
+    String email         = "poojavmay2004@gmail.com";
+
+    String[] stack = {
+        "Java (OOP, Collections, Exception Handling)",
+        "HTML5", "CSS3", "JavaScript",
+        "SQL", "Git & GitHub"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Boot & REST APIs",
+        "React.js",
+        "AWS Cloud Services",
+        "System Design Fundamentals"
+    };
+
+    String funFact = "I built a forest fire detector with pure Java & image processing 🌲🔥";
+
+    String motto() {
+        return "Write code that scales. Build systems that matter.";
+    }
+}
+```
 
 <br clear="right"/>
 
@@ -100,13 +128,7 @@
 
 ---
 
-## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojariyaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
